@@ -1,2 +1,2 @@
-# Python-Coursework-
+# Python
 The was my academic assignment. 
